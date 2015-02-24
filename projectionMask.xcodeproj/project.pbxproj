@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0E3F3E6C1442EF1D0064F489 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E3F3E6B1442EF1D0064F489 /* QuartzCore.framework */; };
+		0198884E1A9CC6A000261FA9 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0198884D1A9CC6A000261FA9 /* QuartzCore.framework */; };
 		2E65C90E15093F010083A0F3 /* NoWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E65C8F415093F010083A0F3 /* NoWindow.xib */; };
 		2E65C90F15093F010083A0F3 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2E65C8F515093F010083A0F3 /* README.txt */; };
 		2E65C91015093F010083A0F3 /* WithWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E65C8F615093F010083A0F3 /* WithWindow.xib */; };
@@ -70,7 +70,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0E3F3E6B1442EF1D0064F489 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = ../../../../../../../../System/Library/Frameworks/QuartzCore.framework; sourceTree = "<group>"; };
+		0198884D1A9CC6A000261FA9 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = ../../../../../../../../../System/Library/Frameworks/QuartzCore.framework; sourceTree = "<group>"; };
 		2E65C8F315093F010083A0F3 /* ECSWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ECSWindow.xib; sourceTree = "<group>"; };
 		2E65C8F415093F010083A0F3 /* NoWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NoWindow.xib; sourceTree = "<group>"; };
 		2E65C8F515093F010083A0F3 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
@@ -120,7 +120,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E3F3E6C1442EF1D0064F489 /* QuartzCore.framework in Frameworks */,
+				0198884E1A9CC6A000261FA9 /* QuartzCore.framework in Frameworks */,
 				E4EB6799138ADC1D00A09F29 /* GLUT.framework in Frameworks */,
 				E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */,
 				E45BE97B0E8CC7DD009D7055 /* AGL.framework in Frameworks */,
@@ -266,7 +266,7 @@
 		E4B69B4A0A3A1720003C02F2 = {
 			isa = PBXGroup;
 			children = (
-				0E3F3E6B1442EF1D0064F489 /* QuartzCore.framework */,
+				0198884D1A9CC6A000261FA9 /* QuartzCore.framework */,
 				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
 				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
 				E4B69E1C0A3A1BDC003C02F2 /* src */,
